@@ -34,13 +34,7 @@ h1 {
     margin-bottom: 5px;
 }
 
-.interactive-image {
-    transition: transform 0.3s ease;
-}
 
-.interactive-image:hover {
-    transform: scale(1.5);
-}
 
 #homeButton {
     position: absolute;
