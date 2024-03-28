@@ -20,6 +20,11 @@ body {
 h1 {
     color: white;
     margin-bottom: 20px;
+    transition: color 0.3s;
+}
+
+h1:hover {
+    color: red;
 }
 
 .interactive-image {
