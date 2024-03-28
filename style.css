@@ -23,10 +23,10 @@ h1 {
 }
 
 .interactive-image {
-    width: 350px; /* 기본 이미지 크기 */
+    width: 350px; 
     transition: transform 0.3s ease;
 }
 
 .interactive-image:hover {
-    transform: scale(1.5); /* 마우스 오버시 확대 */
+    transform: scale(1.5);
 }
